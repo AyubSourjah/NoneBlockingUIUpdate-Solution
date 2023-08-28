@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoneBlockingControlUpdate", "NoneBlockingControlUpdate\NoneBlockingControlUpdate.csproj", "{45D0C40E-9F4A-451E-B875-CB91DF39EF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D0C40E-9F4A-451E-B875-CB91DF39EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D0C40E-9F4A-451E-B875-CB91DF39EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D0C40E-9F4A-451E-B875-CB91DF39EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D0C40E-9F4A-451E-B875-CB91DF39EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADFF1AC-F0AD-49A9-8014-38278922E9EF}
+	EndGlobalSection
+EndGlobal
